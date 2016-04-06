@@ -10,11 +10,8 @@ dev add code 22222222222222222
 
 master branch change:
 
-<<<<<<< 29af65dddaab4623c3e1a3f76ec4908e162c2e98
+
 code code 2222222222222 ---dev change line 12
-=======
-code code 222222222222222222222  -- master change line 10.
->>>>>>> master branch change readme.md line 10
 
 
 end
@@ -26,3 +23,14 @@ code   3333333333333333
 
 end
 
+
+<<<<<<< 026b49e5ab661f7c075758a0ac31c78170b32e43
+dev branch add line 25
+dev branch add line 26
+
+=======
+
+master branch add line 28
+master branch add line 29
+master branch add line 30
+>>>>>>> master branch add line 28,29,30
