@@ -1,11 +1,8 @@
 11111111111111
 ver 1.0
 
-<<<<<<< 4e6422d8adfd63b6d5bf24db983fe96af78ce202
-dev modifile  ABC   --dev changed
-=======
 dev modifile  abc      --master changed
->>>>>>> master branch change line 2  abc.
+
 
 code 111111111 change 3333333
 
@@ -13,7 +10,11 @@ dev add code 22222222222222222
 
 master branch change:
 
+<<<<<<< 29af65dddaab4623c3e1a3f76ec4908e162c2e98
 code code 2222222222222 ---dev change line 12
+=======
+code code 222222222222222222222  -- master change line 10.
+>>>>>>> master branch change readme.md line 10
 
 
 end
