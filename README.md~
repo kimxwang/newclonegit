@@ -1,16 +1,22 @@
 11111111111111
 ver 1.0
 
+<<<<<<< 2c983d981d2b23f820581029e0cc92a0624c1b95
 <<<<<<< e066340ac466c03ff3cc95c6b47084cce96590a4
+=======
+>>>>>>> dev change readme.md. 3333
 dev modifile  11111
 
 code 111111111111111111111
 
+<<<<<<< 2c983d981d2b23f820581029e0cc92a0624c1b95
 =======
 master branch change:
 
 code code 222222222222222222222
 >>>>>>> master commit: readme.md changed.
+=======
+>>>>>>> dev change readme.md. 3333
 
 end
 
